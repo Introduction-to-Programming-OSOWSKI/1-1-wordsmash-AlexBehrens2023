@@ -1,7 +1,7 @@
 #WRITE YOUR CODE HERE
-def wordSmash(x, y):
+def wordSmash(a, b):
     #word smash
-    return x + y
+    return a + b
 
 wordSmash("Cat", "Dog")
 wordSmash("Red", "Blue")
